@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: cont-1
-        image: vamsikrishnakakani/vamsi-repo:foodapp
+        image: aravindhsaimummoju/flm:pizzas
         ports:
         - containerPort: 80
